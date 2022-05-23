@@ -1,1 +1,1 @@
-web: pip install . -U && useful-run
+web: pip install . -U && lewagonlausanne-run
